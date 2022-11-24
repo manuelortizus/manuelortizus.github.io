@@ -6,3 +6,12 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
+
+.fa {
+    text-decoration: none;
+}
+
+.fa .fa-twitter {
+    background: #55ACEE;
+    color: white
+}
