@@ -6,3 +6,22 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
+a{
+    text-decoration: none;
+    color: #000;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+.header--img{
+    width: 30px;
+    height: 30px;
+}
+.header--list{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    width: 300px;
+}
