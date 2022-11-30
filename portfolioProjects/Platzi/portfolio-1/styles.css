@@ -6,6 +6,9 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
+ul{
+    list-style: none;
+}
 a{
     text-decoration: none;
     color: #000;
@@ -21,7 +24,6 @@ a{
 }
 .header--list{
     display: flex;
-    list-style: none;
     justify-content: space-between;
     width: 300px;
 }
@@ -34,6 +36,17 @@ a{
     margin: 20px auto;
     justify-content: space-between;
 }
-main .main--containner .main--img{
-    width: 100%;
+main .main--container .main--img{
+    width: 300px;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.main--info{
+    width: 50%;
+}
+
+.info--name{
+    font-size: 22px;
+    margin-bottom: 15px;
 }
