@@ -23,13 +23,26 @@ h1.titles--title{
     font-size: 18px;
     margin: 10px;
     width: 300px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
 }
+
 .main--button__white{
     border: 1px solid gray;
     background: white;
 }
 
+.main--division{
+    text-align: center;
+    width: 50%;
+}
+
 .main--button__blue{
     background-color: var(--brand-color);
     color: white;
+}
+.main--text{
+    font-size: 14px;
+    width: 50%;
 }
