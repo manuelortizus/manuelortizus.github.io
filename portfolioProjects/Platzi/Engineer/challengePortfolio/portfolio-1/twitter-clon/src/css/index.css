@@ -5,6 +5,12 @@
     color: var(--brand-color);
     font-size: 30px;
 }
+
+.header--icon__white{
+    color: white;
+    font-size: 100px;
+}
+
 .main--titles{
     margin: 20px;
     font-weight: 700;
@@ -53,4 +59,12 @@ h1.titles--title{
 }
 .text--link{
     color: var(--brand-color);
+}
+.main--background{
+    width: 100%;
+    height: 60vh;
+    background-color: var(--brand-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
