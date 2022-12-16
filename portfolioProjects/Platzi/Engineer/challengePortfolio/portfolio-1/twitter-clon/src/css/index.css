@@ -33,6 +33,10 @@ h1.titles--title{
     background: white;
 }
 
+.main--button__white-blue{
+    color: var(--brand-color);
+}
+
 .main--division{
     text-align: center;
     width: 50%;
@@ -43,6 +47,10 @@ h1.titles--title{
     color: white;
 }
 .main--text{
-    font-size: 14px;
-    width: 50%;
+    font-size: 10px;
+    width: 45%;
+    margin: 5px 20px 20px;
+}
+.text--link{
+    color: var(--brand-color);
 }
