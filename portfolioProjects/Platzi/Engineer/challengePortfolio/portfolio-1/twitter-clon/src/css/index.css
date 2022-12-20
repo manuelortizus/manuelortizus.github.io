@@ -8,7 +8,7 @@
 
 .header--icon__white{
     color: white;
-    font-size: 100px;
+    font-size: 200px;
 }
 
 .main--titles{
@@ -67,4 +67,20 @@ h1.titles--title{
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.footer{
+    width: 100%;
+    padding: 20px;
+    font-size: 12px;
+}
+.footer--list{
+    display: flex;
+    flex-wrap: wrap;
+}
+.footer--list li{
+    margin: 5px 10px;
+}
+.footer--list li a{
+    color: #7c7e7f;
+    color: #536471;
 }
