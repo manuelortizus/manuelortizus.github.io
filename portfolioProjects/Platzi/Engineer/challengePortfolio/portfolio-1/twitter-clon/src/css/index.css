@@ -3,57 +3,49 @@
 }
 .header--icon{
     color: var(--brand-color);
-    font-size: 30px;
+    font-size: 3rem;
 }
-
 .header--icon__white{
     color: white;
-    font-size: 200px;
+    font-size: 20rem;
 }
-
 .main--titles{
     margin: 20px;
     font-weight: 700;
     width: 40%;
 }
-
 h1.titles--title{
-    font-size: 34px;
+    font-size: 3.4rem;
     margin-bottom: 15px;
 }
-
 .main--button{
     padding: 10px;
     border: 0;
     border-radius: 20px;
-    font-size: 18px;
+    font-size: 1.8rem;
     margin: 10px;
     width: 300px;
     text-overflow: ellipsis;
     overflow: hidden;
     white-space: nowrap;
 }
-
 .main--button__white{
     border: 1px solid gray;
     background: white;
 }
-
 .main--button__white-blue{
     color: var(--brand-color);
 }
-
 .main--division{
     text-align: center;
     width: 50%;
 }
-
 .main--button__blue{
     background-color: var(--brand-color);
     color: white;
 }
 .main--text{
-    font-size: 10px;
+    font-size: 1rem;
     width: 45%;
     margin: 5px 20px 20px;
 }
@@ -63,7 +55,7 @@ h1.titles--title{
 .main--background{
     width: 100%;
     height: 60vh;
-    background-color: var(--brand-color);
+    background: url("https://abs.twimg.com/sticky/illustrations/lohp_1302x955.png");
     display: flex;
     justify-content: center;
     align-items: center;
@@ -71,7 +63,7 @@ h1.titles--title{
 .footer{
     width: 100%;
     padding: 20px;
-    font-size: 12px;
+    font-size: 1.2rem;
 }
 .footer--list{
     display: flex;
