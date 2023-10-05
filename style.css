@@ -1,4 +1,4 @@
-.header .site-title{
+.header .site-title {
     font-size: 44px;
     font-size: 10vw;
     letter-spacing: 0;
@@ -17,19 +17,16 @@
         margin-bottom: 0px;
         margin-left: 0px;
 }
-.helloBrother{
+.helloBrother {
     background: brown;
 }
-
-a:link,
-a: visited,
-a:focus{
+a:focus {
     background: yellow;
 }
-a:hover{
+a:hover {
     background: orange;
 }
-a:active{
+a:active {
     background: red;
     color: white;
 }
