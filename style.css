@@ -17,9 +17,9 @@
         margin-bottom: 0px;
         margin-left: 0px;
 }
-.helloBrother {
+/*.helloBro {
     background: brown;
-}
+}*/
 a:focus {
     background: yellow;
 }
@@ -29,4 +29,8 @@ a:hover {
 a:active {
     background: red;
     color: white;
+}
+
+body{
+    background-color: #FFD700;
 }
