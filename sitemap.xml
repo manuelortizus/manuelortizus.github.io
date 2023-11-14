@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://manuelortizus.vercel.app/">
+    <url>
+        <loc>https://manuelortizus.vercel.app/</loc>
+        <lastmod>2023-11-13</lastmod>
+        <priority>0.8</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>https://manuelortizus.vercel.app/index.html</loc>
+        <lastmod>2023-11-13</lastmod>
+        <priority>0.7</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <!-- Agrega más entradas para otras paginas -->
+</urlset>
