@@ -1,4 +1,16 @@
-.header .site-title{
+body {
+    background-color: #FFD700;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    height: 100vh;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+h1 {
+    text-align: center;
+}
+.header .site-title {
     font-size: 44px;
     font-size: 10vw;
     letter-spacing: 0;
@@ -17,6 +29,33 @@
         margin-bottom: 0px;
         margin-left: 0px;
 }
-.helloBrother{
+/*.helloBro {
     background: brown;
+}*/
+a:focus {
+    background: yellow;
+}
+a:hover {
+    background: orange;
+}
+a:active {
+    background: red;
+    color: white;
+}
+
+.my_button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    background-color: #011057;
+    color: #ffffff;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;;
+    margin-bottom: 10px;
+}
+
+a:hover {
+    background-color: #2980b9;
 }
