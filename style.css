@@ -4,16 +4,25 @@ body {
     padding: 0;
     font-family: Arial, sans-serif;
     height: 100vh;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
     color: white;
 }
 .manuelortizus{
-    color: Gold;
+    color: white;
 }
 
 h1 {
     text-align: center;
+}
+.img {
+    align-items: center;
+    text-align: center;
+    display: block;
+}
+.images {
+    width: 300px;
+    height: auto;
 }
 .header .site-title {
     font-size: 44px;
@@ -41,10 +50,13 @@ a:focus {
     background: yellow;
 }
 a:hover {
-    background: orange;
+    background: yellow;
 }
 a:active {
     background: red;
+    color: white;
+}
+a {
     color: white;
 }
 
@@ -54,13 +66,9 @@ a:active {
     font-size: 16px;
     text-align: center;
     text-decoration: none;
-    background-color: rgb(255, 47, 0);
+    background-color: goldenrod;
     color: #ffffff;
     border-radius: 5px;
     transition: background-color 0.3s ease;;
     margin-bottom: 10px;
-}
-
-a:hover {
-    background-color: #2980b9;
 }
